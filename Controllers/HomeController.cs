@@ -6,6 +6,7 @@ using download_video.Models;
 using System.IO;
 using Microsoft.Web.Helpers;
 using System.Web;
+using NickBuhro.Translit;
 
 namespace download_video.Controllers
 {
@@ -33,14 +34,21 @@ namespace download_video.Controllers
 
                 using (StreamWriter writer = new StreamWriter(path, false))
                 {
-                     writer.WriteLineAsync(dow.fullName);
+                    dow.latin = Transliteration.CyrillicToLatin(dow.fullName, Language.Russian); //перевод текста на английский
+                    
+                    writer.WriteLineAsync(dow.latin);
+
+                    System.IO.File.WriteAllBytes(@"..\download-video\wwwroot\ServerFiles\"+dow.latin,maxResolution.GetBytes());
+
+                    ViewData["result2"] = "Нажмите что бы скачать";
+                    
+
                 }
 
-                System.IO.File.WriteAllBytes(@"..\download-video\wwwroot\ServerFiles\" + dow.fullName, maxResolution.GetBytes());
-
             }
-
+            
               return View();
+            
         }
 
         //Передача файла клиенту
@@ -52,26 +60,29 @@ namespace download_video.Controllers
 
         public IActionResult GetFile()
         {
-            //в разработке
-            string path2 = @"..\download-video\videoNnfo.txt";
-           
-
-            using (StreamReader reader = new StreamReader(path2))
-            {
-                string text = reader.ReadToEnd();
-
-                
-
-                string file_path = Path.Combine(_appEnvironment.ContentRootPath, @"..\download-video\wwwroot\ServerFiles\"+text);
-               string file_type = "application/mp4";
-                return PhysicalFile(file_path,file_type, "sddd.mp4");
-
-            }
+            
             
 
 
-        }
+                string path2 = @"..\download-video\wwwroot\ServerFiles\videoNnfo.txt";
 
+
+                using (StreamReader reader = new StreamReader(path2))
+                {
+                    string text = reader.ReadToEnd();
+
+                    text = "" + text.Trim() + "";
+
+                    string file_path = Path.Combine(_appEnvironment.ContentRootPath, @"..\download-video\wwwroot\ServerFiles\" + text);
+                    string file_type = "application/mp4";
+                    return PhysicalFile(file_path, file_type, text);
+
+                }
+            
+            return View();
+
+        }
+       
         private IActionResult PhysicalFile(FileStream fs, string file_type)
         {
             throw new NotImplementedException();
@@ -81,15 +92,8 @@ namespace download_video.Controllers
         {
             return View();
         }
-
-
     }
-
        
+ }
 
-
-
-
-
-}
 

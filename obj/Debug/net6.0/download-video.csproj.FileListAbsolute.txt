@@ -90,3 +90,4 @@ C:\Users\Salov\Desktop\web\download-video\obj\Debug\net6.0\refint\download-video
 C:\Users\Salov\Desktop\web\download-video\obj\Debug\net6.0\download-video.pdb
 C:\Users\Salov\Desktop\web\download-video\obj\Debug\net6.0\download-video.genruntimeconfig.cache
 C:\Users\Salov\Desktop\web\download-video\obj\Debug\net6.0\ref\download-video.dll
+C:\Users\Salov\Desktop\web\download-video\bin\Debug\net6.0\NickBuhro.Translit.dll

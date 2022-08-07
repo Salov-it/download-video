@@ -11,6 +11,9 @@
         public int resolution { get; set; } //разрешающая способность
 
         public string maxResolution { get; set; } // Максимальное разрешения видео
+        
+        public string latin { get; set; } //транслит
+        
 
 
     }

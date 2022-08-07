@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Работа\\Проекты\\В работе\\download-video\\download-video.csproj": {}
+    "C:\\Users\\Salov\\Desktop\\web\\download-video\\download-video.csproj": {}
   },
   "projects": {
-    "E:\\Работа\\Проекты\\В работе\\download-video\\download-video.csproj": {
+    "C:\\Users\\Salov\\Desktop\\web\\download-video\\download-video.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Работа\\Проекты\\В работе\\download-video\\download-video.csproj",
+        "projectUniqueName": "C:\\Users\\Salov\\Desktop\\web\\download-video\\download-video.csproj",
         "projectName": "download-video",
-        "projectPath": "E:\\Работа\\Проекты\\В работе\\download-video\\download-video.csproj",
+        "projectPath": "C:\\Users\\Salov\\Desktop\\web\\download-video\\download-video.csproj",
         "packagesPath": "C:\\Users\\Salov\\.nuget\\packages\\",
-        "outputPath": "E:\\Работа\\Проекты\\В работе\\download-video\\obj\\",
+        "outputPath": "C:\\Users\\Salov\\Desktop\\web\\download-video\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Salov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,10 @@
             "Microsoft.AspNet.WebHelpers": {
               "target": "Package",
               "version": "[3.2.9, )"
+            },
+            "NickBuhro.Translit": {
+              "target": "Package",
+              "version": "[1.4.5, )"
             },
             "VideoLibrary": {
               "target": "Package",

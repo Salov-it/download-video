@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/0BcLoGBIxyfaeNOLwky6Iv0eG4nr+x8K1+/i3iDBfs=",
+  "Hash": "CWbVW+EusJdOJK6Xj8N0Et50JV0MUkhziKV0oCjaI14=",
   "Source": "download-video",
   "BasePath": "_content/download-video",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "download-video\\wwwroot",
       "Source": "download-video",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\obj\\Debug\\net6.0\\scopedcss\\bundle\\download-video.styles.css",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\obj\\Debug\\net6.0\\scopedcss\\bundle\\download-video.styles.css",
       "SourceId": "download-video",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/download-video",
       "RelativePath": "download-video.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Работа\\Проекты\\В работе\\download-video\\obj\\Debug\\net6.0\\scopedcss\\bundle\\download-video.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Salov\\Desktop\\web\\download-video\\obj\\Debug\\net6.0\\scopedcss\\bundle\\download-video.styles.css"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\download-video.bundle.scp.css",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\download-video.bundle.scp.css",
       "SourceId": "download-video",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/download-video",
       "RelativePath": "download-video.bundle.scp.css",
       "AssetKind": "All",
@@ -48,47 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Работа\\Проекты\\В работе\\download-video\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\download-video.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Salov\\Desktop\\web\\download-video\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\download-video.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\css\\fonts.css",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
-      "BasePath": "_content/download-video",
-      "RelativePath": "css/bootstrap/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\css\\default.css",
-      "SourceId": "download-video",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
-      "BasePath": "_content/download-video",
-      "RelativePath": "css/default.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\default.css"
-    },
-    {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\css\\fonts.css",
-      "SourceId": "download-video",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "css/fonts.css",
       "AssetKind": "All",
@@ -102,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts.css"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\css\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\css\\fonts\\FontAwesome.otf",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "css/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -119,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\css\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\css\\fonts\\fontawesome-webfont.eot",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "css/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -136,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\css\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\css\\fonts\\fontawesome-webfont.svg",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "css/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -153,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\css\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\css\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "css/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -170,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\css\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\css\\fonts\\fontawesome-webfont.woff",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "css/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -187,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\css\\images\\banner.jpg",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\css\\images\\banner.jpg",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "css/images/banner.jpg",
       "AssetKind": "All",
@@ -204,10 +170,44 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\banner.jpg"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\css\\images\\button2.png",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
+      "BasePath": "_content/download-video",
+      "RelativePath": "css/images/button2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\button2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\css\\style.css",
+      "SourceId": "download-video",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
+      "BasePath": "_content/download-video",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\favicon.ico",
+      "SourceId": "download-video",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -238,10 +238,27 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\ServerFiles\\videoNnfo.txt",
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\ServerFiles\\Uorren Baffet_ Chemu Ya Nauchilsya, Dozhiv do Svoix Let (Pravila Uspexa _ Chast` 3).mp4",
       "SourceId": "download-video",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
+      "BasePath": "_content/download-video",
+      "RelativePath": "ServerFiles/Uorren Baffet_ Chemu Ya Nauchilsya, Dozhiv do Svoix Let (Pravila Uspexa _ Chast` 3).mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ServerFiles\\Uorren Baffet_ Chemu Ya Nauchilsya, Dozhiv do Svoix Let (Pravila Uspexa _ Chast` 3).mp4"
+    },
+    {
+      "Identity": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\ServerFiles\\videoNnfo.txt",
+      "SourceId": "download-video",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Salov\\Desktop\\web\\download-video\\wwwroot\\",
       "BasePath": "_content/download-video",
       "RelativePath": "ServerFiles/videoNnfo.txt",
       "AssetKind": "All",
@@ -253,23 +270,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ServerFiles\\videoNnfo.txt"
-    },
-    {
-      "Identity": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\ServerFiles\\АНИМЕ ЛЕТО 2022 (СМОТРИТЕ В ИЮЛЕ!).mp4",
-      "SourceId": "download-video",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Работа\\Проекты\\В работе\\download-video\\wwwroot\\",
-      "BasePath": "_content/download-video",
-      "RelativePath": "ServerFiles/АНИМЕ ЛЕТО 2022 (СМОТРИТЕ В ИЮЛЕ!).mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ServerFiles\\АНИМЕ ЛЕТО 2022 (СМОТРИТЕ В ИЮЛЕ!).mp4"
     }
   ]
 }
