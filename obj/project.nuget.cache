@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e3vU+witEmSGnMeUMDpLA4HgQ7hiBiSH4tCU2hd3YHmqn32wWE93FTgnXBb/Pm/EljOCeSwTmQfxMNRqgelH5g==",
+  "dgSpecHash": "8+QoRzyVPwRPNovQfrknEgqKUdEu8PdFYok7e2fVLNF5vul1kCENPKKUkxwVdhkTahvqjdkqdpPgCgfW6L8jaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Salov\\Desktop\\web\\download-video\\download-video.csproj",
+  "projectFilePath": "E:\\Работа\\Проекты\\В работе\\github\\download-video\\download-video.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Salov\\.nuget\\packages\\grpc.core\\2.46.3\\grpc.core.2.46.3.nupkg.sha512",
     "C:\\Users\\Salov\\.nuget\\packages\\grpc.core.api\\2.46.3\\grpc.core.api.2.46.3.nupkg.sha512",

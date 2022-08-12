@@ -1,4 +1,3 @@
-
 /******************************************************/
 /*Font*/
 /*****************************************************/
@@ -18,25 +17,20 @@
 	font-style: normal;
 }
 
-
-
 /********************************/
 /*header*/
 /*********************************/
 
 .body
 {
-	width: 1920px;
+	width: 360px;
 }
 
 .header
 {
-	width: 1920px;
-	height: 90px;
+	width: 360px;
+	height: 80px;
 	background-color: #2b2b2b;
-
-	
-  
 }
 
 li
@@ -58,25 +52,36 @@ a
 
 .logo a
 {
-  font-size: 25px;
+  font-size: 0px;
   color: #ffffff;
-  position: absolute; top: 25px; left: 50px;
+  position: absolute; top: 18px; left: 20px;
  
 }
 
 .menu li
 {
-	margin-left: 15px;
-	font-family: FontAwesome;
-	font-size: 20px;
+	font-size: 0px;
+	display: none;
 	
+}
 
+.menu2 ul
+{
+  position: absolute; top: 5px; left: 20px;
+}
+
+
+.menu2 li
+{
+	margin-left: 14px;
+	font-family: FontAwesome;
+	font-size: 18px;
 
 }
 
-.menu ul
+.menu2 ul
 {
-  position: absolute; top: 25px; left: 1300px;
+  position: absolute; top: 15px; left: -13px;
 }
 
 /****************************************************/
@@ -84,51 +89,15 @@ a
 /***************************************************/
 .Content
 {
-  width: 1920px;
-  height: 850px;
+  width: 360px;
+  height: 40px;
   background-image: url(images/banner.jpg);
 }
 
 .text-save-yotube p 
 {
-  font-size: 50px;
+  font-size: 20px;
   color: #ffffff;
-  position: absolute; top: 200px; left: 650px;
-}
+  position: absolute; top: 100px; left: -40px;
 
-.textbox input
-{
-	width: 650px;
-	position: absolute; top: 300px; left: 620px;
-}
-
-.textbox-button button
-{
-	width: 120px;
-	position: absolute; top: 303px; left: 1300px;
-}
-
-.button-download a 
-{
-	font-size: 30px;
-	color: #ffffff;
-	position: absolute; top: 370px; left: 750px;
-}
-
-/************************************************/
-/*footer*/
-/************************************************/
-.footer
-{
-	width: 1920px;
-	height: 60px;
-	background-color: #2b2b2b;
-	
-}
-
-.footer p 
-{
-	font-size: 20px;
-	color: #ffffff;;
-	position: absolute; top: 950px; left: 820px;
 }

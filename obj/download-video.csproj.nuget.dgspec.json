@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Salov\\Desktop\\web\\download-video\\download-video.csproj": {}
+    "E:\\Работа\\Проекты\\В работе\\github\\download-video\\download-video.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Salov\\Desktop\\web\\download-video\\download-video.csproj": {
+    "E:\\Работа\\Проекты\\В работе\\github\\download-video\\download-video.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Salov\\Desktop\\web\\download-video\\download-video.csproj",
+        "projectUniqueName": "E:\\Работа\\Проекты\\В работе\\github\\download-video\\download-video.csproj",
         "projectName": "download-video",
-        "projectPath": "C:\\Users\\Salov\\Desktop\\web\\download-video\\download-video.csproj",
+        "projectPath": "E:\\Работа\\Проекты\\В работе\\github\\download-video\\download-video.csproj",
         "packagesPath": "C:\\Users\\Salov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Salov\\Desktop\\web\\download-video\\obj\\",
+        "outputPath": "E:\\Работа\\Проекты\\В работе\\github\\download-video\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Salov\\AppData\\Roaming\\NuGet\\NuGet.Config",
